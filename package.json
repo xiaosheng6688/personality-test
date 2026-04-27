@@ -1,0 +1,16 @@
+{
+  "name": "personality-test",
+  "version": "1.0.0",
+  "description": "人格测试网站 - 发现真实的自己",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["personality", "test", "mbti", "psychology"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
