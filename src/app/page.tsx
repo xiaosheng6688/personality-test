@@ -8,7 +8,6 @@ interface Question {
 }
 
 interface PersonalityResult {
-  type: string;
   name: string;
   desc: string;
 }
